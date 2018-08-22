@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+}
+
+#num-far {
+    color: red;
+}
+
+h2 {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 48px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+#purple {
+    color: purple;
+}
+
+#bold {
+    font-weight: bold;
+}
